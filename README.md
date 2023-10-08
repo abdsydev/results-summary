@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/abdsydev/results-summary)
+- Live Site URL: [Add live site URL here](https://abdsydev.github.io/results-summary/)
 
 ## My process
 
@@ -30,6 +30,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@abdsydev](https://www.frontendmentor.io/profile/abdsydev)
+- GitHub - [@abdsydev](https://github.com/abdsydev)
+- LinkedIn - [@abdsylearn](https://www.linkedin.com/in/abdsydev/)
+- Telegram - [@abdsylearn](https://t.me/abdsylearn)
