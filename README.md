@@ -32,5 +32,5 @@ Users should be able to:
 
 - Frontend Mentor - [@abdsydev](https://www.frontendmentor.io/profile/abdsydev)
 - GitHub - [@abdsydev](https://github.com/abdsydev)
-- LinkedIn - [@abdsylearn](https://www.linkedin.com/in/abdsydev/)
+- LinkedIn - [@abdsydev](https://www.linkedin.com/in/abdsydev/)
 - Telegram - [@abdsylearn](https://t.me/abdsylearn)
