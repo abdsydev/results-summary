@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/abdsydev/results-summary)
-- Live Site URL: [Add live site URL here](https://abdsydev.github.io/results-summary/)
+- Solution URL: [https://github.com/abdsydev/results-summary](https://github.com/abdsydev/results-summary)
+- Live Site URL: [https://abdsydev.github.io/results-summary/](https://abdsydev.github.io/results-summary/)
 
 ## My process
 
